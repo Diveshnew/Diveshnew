@@ -1,18 +1,11 @@
-## Hi, I am Divesh Dhek 👨‍💻
-I am a Web Developer and I am passionate about technologies and love to learn new things.
+## Hey, I'm [Divesh Dhek]
 
-Last Update : 08/09/2023
-<br>
+👨‍💻 Web Developer | Python | HTML | CSS | JavaScript | PHP | C
 
-⚡ MY Tech Stack
-<hr>
-Front-End Language : 1. Javascript 2. HTML 3. CSS 4. Bootstrap 5. Tailwind <br>
-Back-End Lanuage : 1. Core PHP 2. PHP OOP(Basic) 3. PHP API 4. MYSQL
-<br>
+Passionate about crafting seamless web experiences and harnessing the power of code to bring ideas to life. With a strong foundation in Python, HTML, CSS, JavaScript, PHP, and C, I thrive on solving challenges and creating innovative solutions.
 
-⚡ Project Summary
-<hr>
-personal Website
-
-
-📫 Get in touch with me
+🌐 Website: [yourwebsite.com](https://diveshnew.github.io/Personal-Website/)
+📧 Contact: [email@example.com](mailto:email@example.com)
+📚 Portfolio: [Portfolio](https://www.yourportfolio.com)
+🐦 Twitter: [@Diveshdhek](https://twitter.com/yourusername)
+📷 Instagram: [@Diveshdhek](https://www.instagram.com/yourusername)
