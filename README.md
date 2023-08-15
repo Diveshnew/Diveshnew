@@ -4,6 +4,8 @@
 
 Passionate about crafting seamless web experiences and harnessing the power of code to bring ideas to life. With a strong foundation in Python, HTML, CSS, JavaScript, PHP, and C, I thrive on solving challenges and creating innovative solutions.
 
+[![Divesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=diveshnew)](https://github.com/anuraghazra/github-readme-stats)
+
 🌐 Website: [yourwebsite.com](https://diveshnew.github.io/Personal-Website/)
 📧 Contact: [email@example.com](mailto:email@example.com)
 📚 Portfolio: [Portfolio](https://www.yourportfolio.com)
