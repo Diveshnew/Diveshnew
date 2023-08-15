@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/Diveshnew/Diveshnew/blob/main/banner%20image.png)
+![I am GitHub Readme Generator's creator](https://github.com/Diveshnew/Diveshnew/blob/main/bannerImage.jpg)
 ### Hi there 👋, my name is Divesh Dhek
 #### I am a Web Developer, Video Creator and Editor
 
