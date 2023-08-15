@@ -14,8 +14,6 @@ Skills: JS / HTML / CSS / Tailwind / C / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=diveshnew&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=diveshnew)  
-
 ![GitHub metrics](https://metrics.lecoq.io/diveshnew)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=diveshnew)  
