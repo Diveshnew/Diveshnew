@@ -7,6 +7,7 @@
 🖥 Tailwind Css, Bootstrap  <br>
 🐍 Python  <br>
 👨‍💻 C , PHP  <br>
+📂 jQuery, Node.js, Express.js
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/diveshnew) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/diveshdhek/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Diveshdhek)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://diveshnew.github.io/Personal-Website/)  
