@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1574566236016758784/1691845163/1080x360)
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQENSuAtV_dEbw/profile-displaybackgroundimage-shrink_350_1400/0/1693012044017?e=1698278400&v=beta&t=wK_d5STW5HrxrMMX0KmJRbe1A6zwSn2L1aenXAwIccM)
 # Divesh Dhek
 "I'm Divesh from India! Web developer fluent in Tailwind CSS, HTML, CSS, JS, Bootstrap, and PHP. Crafting seamless and engaging user experiences is my passion. Let's build something amazing together!"
 
