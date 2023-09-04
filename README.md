@@ -104,7 +104,8 @@
 <br>
 <div style="display: flex; flex-direction: row;">
 <!--  <img class="img" src="https://github-readme-stats.vercel.app/api?username=diveshnew&show_icons=true&theme=radical" /> -->
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diveshnew&theme=radical&layout=compact" />
+<!--  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diveshnew&theme=radical&layout=compact" /> -->
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=diveshnew&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="diveshnew" height="175px" width="400px"/>
 </div>
 
  ## 🤝 _Connect With Me:_  
