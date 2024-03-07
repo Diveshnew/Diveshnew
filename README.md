@@ -128,3 +128,6 @@
 ## _Visitors Count🚶_<br>
   <img src="https://komarev.com/ghpvc/?username=diveshnew&color=blue&style=for-the-badge" />
 <br>
+
+> [!NOTE]  
+> All the Projects Starts with ` PRO ` and All the Notes Starts with ` -- `
