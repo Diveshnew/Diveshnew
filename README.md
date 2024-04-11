@@ -98,15 +98,26 @@
  <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify,postman" />
 </a>
 
+<br>
+<br>
+<br>
+
+<img alt="Git Stat" title="Git Stat" src="https://custom-icon-badges.demolab.com/badge/-GitHub%20Profile%20Stats-f75c7e?style=for-the-badge&logo=package&logoColor=black"/>
+
+<img alt="Divesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Diveshnew&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Diveshnew&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+
+> [!NOTE]  
+> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
  <!--<p><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></p>
 <br> -->
 <br>
-<br>
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;"> -->
 <!--  <img class="img" src="https://github-readme-stats.vercel.app/api?username=diveshnew&show_icons=true&theme=radical" /> -->
 <!--  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diveshnew&theme=radical&layout=compact" /> -->
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=diveshnew&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="diveshnew" height="175px" width="400px"/>
-</div>
+<!--  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=diveshnew&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="diveshnew" height="175px" width="400px"/>
+</div> -->
 
  ## 🤝 _Connect With Me:_  
 
