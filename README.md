@@ -127,9 +127,9 @@
 <a href="https://twitter.com/diveshdhek" target="_blank">
 <img src=https://img.shields.io/badge/twitter-darkblue.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/diveshdhek" target="_blank">
+<!-- <a href="https://instagram.com/diveshdhek" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="mailto://workwithdivesh@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
