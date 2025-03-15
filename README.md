@@ -8,14 +8,14 @@
  <!--<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pkbgoupmgjv98otfuzjzz3olilr56muin6aigv8q&rid=giphy.gif&ct=g"> -->
   
 # Divesh Dhek
-"I'm Divesh from India! Web developer fluent in Tailwind CSS, HTML, CSS, JS, Bootstrap, and PHP. Crafting seamless and engaging user experiences is my passion. Let's build something amazing together!"
+"I'm Divesh from India! Web developer fluent in JavaScript, TypeScript, React, NextJs. Crafting seamless and engaging user experiences is my passion. Let's build something amazing together!"
 
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34px">&nbsp;Here Is What I'm Working On
-- 💻 I’m currently learning **Full Stack Web Development🔥✨🚀**
+- 💻 I’m currently learning **Web 3 Development🔥✨🚀**
 - 🌞 I am an **open-source enthusiast** and an aspiring **full-stack developer**.
 
 - 👯 I’m looking forward to **be a part of various interesting projects.**
