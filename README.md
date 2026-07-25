@@ -2,122 +2,33 @@
 
 <!--![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQENSuAtV_dEbw/profile-displaybackgroundimage-shrink_350_1400/0/1693012044017?e=1698278400&v=beta&t=wK_d5STW5HrxrMMX0KmJRbe1A6zwSn2L1aenXAwIccM)-->
 <!--<img align='right' width='400' alt='coding' src='https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966'> -->
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Divesh+Dhek;I+am+a+Full+Stack+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I+am+Divesh+Singh+Dhek;I+am+a+Software+Developer.;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
 
 
  <!--<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pkbgoupmgjv98otfuzjzz3olilr56muin6aigv8q&rid=giphy.gif&ct=g"> -->
-  
-# Divesh Dhek
-"I'm Divesh from India! Web developer fluent in JavaScript, TypeScript, React, NextJs. Crafting seamless and engaging user experiences is my passion. Let's build something amazing together!"
+ 
+# Hi there 👋, I'm Divesh
 
+I'm a software developer who enjoys solving problems across different domains. Rather than specializing in one role, I build, analyze, automate, and optimize—whether it's software, data, AI, or infrastructure.
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+### 🚀 What I Work With
+- 💻 Full Stack Development
+- 📊 Data Analysis
+- 🤖 AI & Machine Learning
+- ☁️ DevOps & Cloud
+- 🎨 UI/UX Design
+- ⛓️ Web3 Development
 
+### 💡 Languages
+- **Strong:** Python, JavaScript
+- **Familiar:** Java, C
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34px">&nbsp;Here Is What I'm Working On
-- 💻 I’m currently learning **Web 3 Development🔥✨🚀**
-- 🌞 I am an **open-source enthusiast** and an aspiring **full-stack developer**.
+### 🛠️ Tech Stack
+Python • JavaScript • React • Next.js • Node.js • Express • TypeScript • SQL • MongoDB • PostgreSQL • Docker • Git • Linux • AWS • TensorFlow • Pandas • NumPy • Power BI • Figma
 
-- 👯 I’m looking forward to **be a part of various interesting projects.**
+---
 
-- 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
-
-- ⚡ **I love to know about people and their stories.** 
-
-- 📫 How to reach me : **workwithdivesh@gmail.com**
-
-
-🤔 Ask me about **Web Development**✨
-
-<!-- <p align="left"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="python" src="https://img.shields.io/badge/python-%230F3053.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="php" src="https://img.shields.io/badge/php-%238A2BE2.svg?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-<br> -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34px">&nbsp;Technologies
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,expressjs,react,bootstrap,tailwind css" />
-  </a>
-  <br>
-  <br>
- <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=php,python,c,c++" />
-</a>
-  <br>
-  <br>
-
-<!--
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div> -->
-
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="34px">&nbsp;Tools
- <a href="https://skillicons.dev">
- <img src="https://skillicons.dev/icons?i=vscode,git,github,netlify,postman" />
-</a>
-
-<br>
-<br>
-<br>
-
-<img alt="Git Stat" title="Git Stat" src="https://custom-icon-badges.demolab.com/badge/-GitHub%20Profile%20Stats-f75c7e?style=for-the-badge&logo=package&logoColor=black"/>
-
-<img alt="Divesh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Diveshnew&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-<img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Diveshnew&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-
-> [!NOTE]  
-> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
- <!--<p><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></p>
-<br> -->
-<br>
-<!-- <div style="display: flex; flex-direction: row;"> -->
-<!--  <img class="img" src="https://github-readme-stats.vercel.app/api?username=diveshnew&show_icons=true&theme=radical" /> -->
-<!--  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diveshnew&theme=radical&layout=compact" /> -->
-<!--  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=diveshnew&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="diveshnew" height="175px" width="400px"/>
-</div> -->
+> *I enjoy learning new technologies and adapting quickly to solve real-world problems. If it involves building, analyzing, automating, or scaling, I'm always interested.*
 
  ## 🤝 _Connect With Me:_  
 
